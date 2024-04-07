@@ -1,4 +1,4 @@
-# Medical Image Segmentation with U-Net and EfficientNet
+# Medical Image Segmentation with U-Net and EfficientNet Encoder
 
 This repository contains an implementation of a U-Net architecture with an EfficientNet encoder for medical image segmentation. The combination of U-Net and EfficientNet harnesses the strengths of both architectures, providing a powerful tool for segmenting medical images with high precision.
 
