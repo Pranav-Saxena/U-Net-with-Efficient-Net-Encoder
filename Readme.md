@@ -21,4 +21,4 @@ This repository contains an implementation of a U-Net architecture with an Effic
 
 
 # Collaborators
-@Sasopsy and @Pranav-Saxena
+[@Sasopsy](https://github.com/Sasopsy) and [@Pranav-Saxena](https://github.com/Pranav-Saxena)
